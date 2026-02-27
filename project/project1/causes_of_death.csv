@@ -1,0 +1,497 @@
+Year,Cause,Age Adjusted Death Rate
+2023,Heart Disease,162.1
+2023,Cancer,141.8
+2023,Unintentional Injuries,62.3
+2023,Stroke,39.0
+2022,Heart Disease,167.2
+2022,Cancer,142.3
+2022,Unintentional Injuries,64.0
+2022,Stroke,39.5
+2021,Heart Disease,173.8
+2021,Cancer,146.6
+2021,Unintentional Injuries,64.7
+2021,Stroke,41.1
+2020,Heart Disease,168.2
+2020,Cancer,144.1
+2020,Unintentional Injuries,57.6
+2020,Stroke,38.8
+2019,Heart Disease,161.5
+2019,Cancer,146.2
+2019,Unintentional Injuries,49.3
+2019,Stroke,37.0
+2018,Heart Disease,163.6
+2018,Cancer,149.1
+2018,Unintentional Injuries,48.0
+2018,Stroke,37.1
+2017,Heart Disease,165.0
+2017,Cancer,152.5
+2017,Unintentional Injuries,49.4
+2017,Stroke,37.6
+2016,Heart Disease,165.5
+2016,Cancer,155.8
+2016,Unintentional Injuries,47.4
+2016,Stroke,37.3
+2015,Heart Disease,168.5
+2015,Cancer,158.5
+2015,Unintentional Injuries,43.2
+2015,Stroke,37.6
+2014,Heart Disease,167.0
+2014,Cancer,161.2
+2014,Unintentional Injuries,40.5
+2014,Stroke,36.5
+2013,Heart Disease,169.8
+2013,Cancer,163.2
+2013,Unintentional Injuries,39.4
+2013,Stroke,36.2
+2012,Heart Disease,170.5
+2012,Cancer,166.5
+2012,Unintentional Injuries,39.1
+2012,Stroke,36.9
+2011,Heart Disease,173.7
+2011,Cancer,169.0
+2011,Unintentional Injuries,39.1
+2011,Stroke,37.9
+2010,Heart Disease,179.1
+2010,Cancer,172.8
+2010,Stroke,39.1
+2010,Unintentional Injuries,38.0
+2009,Heart Disease,182.8
+2009,Cancer,173.5
+2009,Stroke,39.6
+2009,Unintentional Injuries,37.5
+2008,Heart Disease,192.1
+2008,Cancer,176.4
+2008,Stroke,42.1
+2008,Unintentional Injuries,39.2
+2007,Heart Disease,196.1
+2007,Cancer,179.3
+2007,Stroke,43.5
+2007,Unintentional Injuries,40.4
+2006,Heart Disease,205.5
+2006,Cancer,181.8
+2006,Stroke,44.8
+2006,Unintentional Injuries,40.2
+2005,Heart Disease,216.8
+2005,Cancer,185.1
+2005,Stroke,48.0
+2005,Unintentional Injuries,39.5
+2004,Heart Disease,221.6
+2004,Cancer,186.8
+2004,Stroke,51.2
+2004,Unintentional Injuries,38.1
+2003,Heart Disease,236.3
+2003,Cancer,190.9
+2003,Stroke,54.6
+2003,Unintentional Injuries,37.6
+2002,Heart Disease,244.6
+2002,Cancer,194.3
+2002,Stroke,57.2
+2002,Unintentional Injuries,37.1
+2001,Heart Disease,249.5
+2001,Cancer,196.5
+2001,Stroke,58.4
+2001,Unintentional Injuries,35.7
+2000,Heart Disease,257.6
+2000,Cancer,199.6
+2000,Stroke,60.9
+2000,Unintentional Injuries,34.9
+1999,Heart Disease,266.5
+1999,Cancer,200.8
+1999,Stroke,61.6
+1999,Unintentional Injuries,35.3
+1998,Heart Disease,272.4
+1998,Cancer,200.7
+1998,Stroke,59.4
+1998,Unintentional Injuries,34.5
+1997,Heart Disease,280.4
+1997,Cancer,203.5
+1997,Stroke,61.2
+1997,Unintentional Injuries,34.2
+1996,Heart Disease,288.3
+1996,Cancer,206.7
+1996,Stroke,62.6
+1996,Unintentional Injuries,34.5
+1995,Heart Disease,296.3
+1995,Cancer,209.8
+1995,Stroke,63.3
+1995,Unintentional Injuries,34.4
+1994,Heart Disease,299.7
+1994,Cancer,211.7
+1994,Stroke,62.8
+1994,Unintentional Injuries,34.2
+1993,Heart Disease,309.9
+1993,Cancer,213.5
+1993,Stroke,62.9
+1993,Unintentional Injuries,34.2
+1992,Heart Disease,306.1
+1992,Cancer,213.5
+1992,Stroke,61.6
+1992,Unintentional Injuries,33.2
+1991,Heart Disease,313.8
+1991,Cancer,215.2
+1991,Stroke,63.1
+1991,Unintentional Injuries,34.7
+1990,Heart Disease,321.8
+1990,Cancer,216.0
+1990,Stroke,65.5
+1990,Unintentional Injuries,36.2
+1989,Heart Disease,332.0
+1989,Cancer,214.2
+1989,Stroke,67.1
+1989,Unintentional Injuries,37.7
+1988,Heart Disease,352.5
+1988,Cancer,212.5
+1988,Stroke,70.8
+1988,Unintentional Injuries,38.9
+1987,Heart Disease,355.9
+1987,Cancer,211.7
+1987,Stroke,71.8
+1987,Unintentional Injuries,38.2
+1986,Heart Disease,365.1
+1986,Cancer,211.5
+1986,Stroke,73.3
+1986,Unintentional Injuries,38.6
+1985,Heart Disease,375.0
+1985,Cancer,211.3
+1985,Stroke,76.6
+1985,Unintentional Injuries,38.5
+1984,Heart Disease,378.8
+1984,Cancer,210.8
+1984,Stroke,78.9
+1984,Unintentional Injuries,38.8
+1983,Heart Disease,388.9
+1983,Cancer,209.1
+1983,Stroke,81.4
+1983,Unintentional Injuries,39.1
+1982,Heart Disease,389.0
+1982,Cancer,208.3
+1982,Stroke,84.4
+1982,Unintentional Injuries,40.1
+1981,Heart Disease,397.0
+1981,Cancer,206.4
+1981,Stroke,89.7
+1981,Unintentional Injuries,43.4
+1980,Heart Disease,412.1
+1980,Cancer,207.9
+1980,Stroke,96.4
+1980,Unintentional Injuries,46.4
+1979,Heart Disease,401.6
+1979,Cancer,204.0
+1979,Stroke,97.3
+1979,Unintentional Injuries,46.5
+1978,Heart Disease,409.9
+1978,Cancer,204.9
+1978,Stroke,103.7
+1978,Unintentional Injuries,48.9
+1977,Heart Disease,413.7
+1977,Cancer,203.5
+1977,Stroke,110.4
+1977,Unintentional Injuries,48.8
+1976,Heart Disease,426.9
+1976,Cancer,202.5
+1976,Stroke,117.4
+1976,Unintentional Injuries,48.7
+1975,Heart Disease,431.2
+1975,Cancer,200.1
+1975,Stroke,123.5
+1975,Unintentional Injuries,50.8
+1974,Heart Disease,458.8
+1974,Cancer,201.5
+1974,Stroke,136.8
+1974,Unintentional Injuries,52.7
+1973,Heart Disease,482.0
+1973,Cancer,200.0
+1973,Stroke,145.2
+1973,Unintentional Injuries,59.3
+1972,Heart Disease,490.2
+1972,Cancer,200.3
+1972,Stroke,147.3
+1972,Unintentional Injuries,60.2
+1971,Heart Disease,492.9
+1971,Cancer,199.3
+1971,Stroke,147.6
+1971,Unintentional Injuries,60.3
+1970,Heart Disease,492.7
+1970,Cancer,198.6
+1970,Stroke,147.7
+1970,Unintentional Injuries,62.2
+1969,Heart Disease,516.8
+1969,Cancer,198.5
+1969,Stroke,155.4
+1969,Unintentional Injuries,64.9
+1968,Heart Disease,531.0
+1968,Cancer,198.8
+1968,Stroke,162.5
+1968,Unintentional Injuries,65.5
+1967,Heart Disease,524.7
+1967,Cancer,197.3
+1967,Stroke,159.3
+1967,Unintentional Injuries,66.2
+1966,Heart Disease,541.2
+1966,Cancer,196.5
+1966,Stroke,165.8
+1966,Unintentional Injuries,67.6
+1965,Heart Disease,542.5
+1965,Cancer,195.6
+1965,Stroke,166.4
+1965,Unintentional Injuries,65.8
+1964,Heart Disease,543.3
+1964,Cancer,193.6
+1964,Stroke,167.0
+1964,Unintentional Injuries,64.1
+1963,Heart Disease,563.4
+1963,Cancer,194.7
+1963,Stroke,173.9
+1963,Unintentional Injuries,64.0
+1962,Heart Disease,556.9
+1962,Cancer,193.3
+1962,Stroke,174.0
+1962,Unintentional Injuries,62.9
+1961,Heart Disease,545.3
+1961,Cancer,193.4
+1961,Stroke,173.1
+1961,Unintentional Injuries,60.6
+1960,Heart Disease,559.0
+1960,Cancer,193.9
+1960,Stroke,177.9
+1960,Unintentional Injuries,63.1
+1959,Heart Disease,552.1
+1959,Cancer,191.6
+1959,Stroke,179.0
+1959,Unintentional Injuries,63.2
+1958,Heart Disease,563.6
+1958,Cancer,192.0
+1958,Stroke,183.0
+1958,Unintentional Injuries,63.6
+1957,Heart Disease,568.5
+1957,Cancer,195.4
+1957,Stroke,183.0
+1957,Unintentional Injuries,69.1
+1956,Heart Disease,560.6
+1956,Cancer,195.6
+1956,Stroke,177.4
+1956,Unintentional Injuries,70.2
+1955,Heart Disease,556.7
+1955,Cancer,194.5
+1955,Stroke,177.3
+1955,Unintentional Injuries,70.9
+1954,Heart Disease,544.6
+1954,Cancer,194.3
+1954,Stroke,173.4
+1954,Unintentional Injuries,69.9
+1953,Heart Disease,570.1
+1953,Cancer,194.6
+1953,Stroke,179.2
+1953,Unintentional Injuries,75.4
+1952,Heart Disease,568.8
+1952,Cancer,194.2
+1952,Stroke,180.2
+1952,Unintentional Injuries,78.0
+1951,Heart Disease,577.9
+1951,Cancer,192.0
+1951,Stroke,181.4
+1951,Unintentional Injuries,79.7
+1950,Heart Disease,588.8
+1950,Cancer,193.9
+1950,Stroke,180.7
+1950,Unintentional Injuries,78.4
+1949,Heart Disease,581.0
+1949,Cancer,193.9
+1949,Stroke,176.2
+1949,Unintentional Injuries,57.6
+1948,Heart Disease,549.0
+1948,Cancer,193.4
+1948,Stroke,157.4
+1948,Unintentional Injuries,68.6
+1947,Heart Disease,552.5
+1947,Cancer,190.7
+1947,Stroke,161.3
+1947,Unintentional Injuries,69.9
+1946,Heart Disease,527.7
+1946,Cancer,187.1
+1946,Stroke,158.8
+1946,Unintentional Injuries,69.4
+1945,Heart Disease,533.2
+1945,Cancer,186.9
+1945,Stroke,166.7
+1945,Unintentional Injuries,74.9
+1944,Heart Disease,541.1
+1944,Cancer,183.8
+1944,Stroke,164.4
+1944,Unintentional Injuries,77.0
+1943,Heart Disease,567.5
+1943,Cancer,183.9
+1943,Stroke,173.3
+1943,Unintentional Injuries,82.1
+1942,Heart Disease,531.7
+1942,Cancer,183.8
+1942,Stroke,166.8
+1942,Unintentional Injuries,75.6
+1941,Heart Disease,537.9
+1941,Cancer,184.1
+1941,Stroke,169.4
+1941,Unintentional Injuries,72.7
+1940,Heart Disease,558.5
+1940,Cancer,187.8
+1940,Stroke,177.2
+1940,Unintentional Injuries,76.0
+1939,Heart Disease,534.5
+1939,Cancer,187.1
+1939,Stroke,173.2
+1939,Unintentional Injuries,74.7
+1938,Heart Disease,528.9
+1938,Cancer,185.7
+1938,Stroke,171.4
+1938,Unintentional Injuries,76.5
+1937,Heart Disease,538.8
+1937,Cancer,184.6
+1937,Stroke,176.6
+1937,Unintentional Injuries,81.8
+1936,Heart Disease,546.2
+1936,Stroke,189.8
+1936,Cancer,186.8
+1936,Unintentional Injuries,92.4
+1935,Heart Disease,506.8
+1935,Cancer,183.4
+1935,Stroke,181.2
+1935,Unintentional Injuries,80.8
+1934,Heart Disease,502.9
+1934,Stroke,184.5
+1934,Cancer,181.6
+1934,Unintentional Injuries,82.7
+1933,Heart Disease,483.8
+1933,Stroke,185.0
+1933,Cancer,178.2
+1933,Unintentional Injuries,76.2
+1932,Heart Disease,482.8
+1932,Stroke,194.4
+1932,Cancer,179.2
+1932,Unintentional Injuries,76.6
+1931,Heart Disease,459.6
+1931,Stroke,195.0
+1931,Cancer,175.8
+1931,Unintentional Injuries,81.2
+1930,Heart Disease,467.9
+1930,Stroke,203.9
+1930,Cancer,174.5
+1930,Unintentional Injuries,84.2
+1929,Heart Disease,476.2
+1929,Stroke,213.3
+1929,Cancer,175.3
+1929,Unintentional Injuries,84.3
+1928,Heart Disease,478.9
+1928,Stroke,223.4
+1928,Cancer,177.8
+1928,Unintentional Injuries,86.1
+1927,Heart Disease,448.8
+1927,Stroke,216.3
+1927,Cancer,177.8
+1927,Unintentional Injuries,86.3
+1926,Heart Disease,465.7
+1926,Stroke,228.2
+1926,Cancer,177.3
+1926,Unintentional Injuries,89.8
+1925,Heart Disease,433.8
+1925,Stroke,227.9
+1925,Cancer,174.3
+1925,Unintentional Injuries,92.2
+1924,Heart Disease,410.5
+1924,Stroke,246.4
+1924,Cancer,170.6
+1924,Unintentional Injuries,89.6
+1923,Heart Disease,410.3
+1923,Stroke,245.6
+1923,Cancer,168.8
+1923,Unintentional Injuries,91.2
+1922,Heart Disease,392.1
+1922,Stroke,238.9
+1922,Cancer,165.6
+1922,Unintentional Injuries,85.4
+1921,Heart Disease,366.2
+1921,Stroke,230.1
+1921,Cancer,163.5
+1921,Unintentional Injuries,83.2
+1920,Heart Disease,375.0
+1920,Stroke,238.5
+1920,Cancer,159.0
+1920,Unintentional Injuries,87.5
+1919,Heart Disease,335.7
+1919,Stroke,225.6
+1919,Cancer,152.1
+1919,Unintentional Injuries,86.9
+1918,Heart Disease,366.2
+1918,Stroke,228.0
+1918,Cancer,148.4
+1918,Unintentional Injuries,99.9
+1917,Heart Disease,377.9
+1917,Stroke,238.2
+1917,Cancer,150.7
+1917,Unintentional Injuries,107.0
+1916,Heart Disease,373.3
+1916,Stroke,235.7
+1916,Cancer,152.2
+1916,Unintentional Injuries,104.3
+1915,Heart Disease,361.5
+1915,Stroke,234.5
+1915,Cancer,149.5
+1915,Unintentional Injuries,95.2
+1914,Heart Disease,346.4
+1914,Stroke,231.3
+1914,Cancer,146.6
+1914,Unintentional Injuries,100.4
+1913,Heart Disease,337.9
+1913,Stroke,226.9
+1913,Cancer,147.8
+1913,Unintentional Injuries,108.2
+1912,Heart Disease,346.0
+1912,Stroke,228.7
+1912,Cancer,144.7
+1912,Unintentional Injuries,107.1
+1911,Heart Disease,341.8
+1911,Stroke,230.2
+1911,Cancer,140.4
+1911,Unintentional Injuries,113.5
+1910,Heart Disease,345.1
+1910,Stroke,238.5
+1910,Cancer,143.1
+1910,Unintentional Injuries,111.2
+1909,Heart Disease,329.2
+1909,Stroke,237.5
+1909,Cancer,138.1
+1909,Unintentional Injuries,108.0
+1908,Heart Disease,328.6
+1908,Stroke,239.0
+1908,Cancer,134.5
+1908,Unintentional Injuries,108.8
+1907,Heart Disease,356.5
+1907,Stroke,261.8
+1907,Cancer,133.0
+1907,Unintentional Injuries,122.3
+1906,Heart Disease,325.5
+1906,Stroke,245.9
+1906,Cancer,128.8
+1906,Unintentional Injuries,121.2
+1905,Heart Disease,327.8
+1905,Stroke,247.3
+1905,Cancer,132.5
+1905,Unintentional Injuries,108.5
+1904,Heart Disease,331.5
+1904,Stroke,255.2
+1904,Cancer,127.9
+1904,Unintentional Injuries,112.8
+1903,Heart Disease,304.5
+1903,Stroke,244.6
+1903,Cancer,125.2
+1903,Unintentional Injuries,106.9
+1902,Heart Disease,285.2
+1902,Stroke,237.8
+1902,Cancer,119.7
+1902,Unintentional Injuries,93.6
+1901,Heart Disease,272.6
+1901,Stroke,243.6
+1901,Cancer,118.1
+1901,Unintentional Injuries,109.3
+1900,Heart Disease,265.4
+1900,Stroke,244.2
+1900,Cancer,114.8
+1900,Unintentional Injuries,90.3

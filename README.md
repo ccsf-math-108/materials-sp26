@@ -3,6 +3,7 @@
 While Canvas is not operational, here is collection of resources and links to the assignments in JupyterHub.
 
 ## Reference Materials
+* [Textbook](https://ccsf-math-108.github.io/textbook)
 * [Code Reference](https://ccsf-math-108.github.io/materials-sp26/resources/code-reference.html)
 * [Midterm Exam Reference Guide](https://ccsf-math-108.github.io/materials-sp26/exam/reference-guides/midterm-exam-reference-guide.pdf)
 * [Final Exam Reference Guide](https://ccsf-math-108.github.io/materials-sp26/exam/reference-guides/final-exam-reference-guide.pdf)
